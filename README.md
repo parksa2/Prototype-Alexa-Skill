@@ -11,3 +11,4 @@ Ideas for Improvement:
 
    Leverage News API search functionality instead of rolling my own with direct crude string search.
   
+Click this link: https://www.amazon.com/Andrew-Parks-Defense-News/dp/B073GNFNGV to see it in action.
